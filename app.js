@@ -342,8 +342,8 @@ function renderHome() {
     <div class="section-head">
       <h2 class="section-title" id="home-switch-title">精選內容</h2>
       <div class="home-switch" role="tablist" aria-label="選擇內容類型">
-        <button class="home-switch-btn active" role="tab" aria-selected="true" data-home-view="trailers">${I.play} 預告</button>
-        <button class="home-switch-btn" role="tab" aria-selected="false" data-home-view="maps">${I.cube} 地圖</button>
+        <button class="home-switch-btn active" role="tab" aria-selected="true" data-home-view="maps">${I.cube} 查看地圖</button>
+<button class="home-switch-btn" role="tab" aria-selected="false" data-home-view="trailers">${I.play} 觀看預告</button>
       </div>
     </div>
 
